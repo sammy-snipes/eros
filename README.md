@@ -31,3 +31,4 @@ swipes → analyzes → messages → collects
 ---
 
 *χαῖρε* • **farewell** • *may aphrodite smile upon your pulls*
+
