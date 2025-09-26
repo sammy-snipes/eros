@@ -1,33 +1,85 @@
-# ***ε ρ ο ς***
+# Eros
 
-> *...and I long and I yearn...*
-> *...for the profiles that please...*
-> *...algorithmic desire...*
+*"For in the end, the algorithm merely simulates what the heart has always known: that attraction, in all its forms, follows patterns we are only beginning to understand."*
 
----
+![eros](eros.jpg)
 
-## 🏹 **τέχνη** *of digital courtship*
+## About
+
+Eros is a Python project exploring the intersection of technology and human connection, investigating algorithmic approaches to matching and compatibility.
+
+## Installation
+
+### Prerequisites
+- Python 3.8 or higher
+- pip package manager
+
+### Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sammy-snipes/eros.git
+   cd eros
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install -e .
+   ```
+
+3. **Verify installation**
+   ```bash
+   python -c "import eros; print('Eros installed successfully!')"
+   ```
+
+## Usage
+
+```python
+import eros
+
+# Basic usage example
+# TODO: Add actual usage examples as the project develops
+```
+
+## Development
+
+### Setting up for development
+
+1. Clone the repository (see Installation above)
+2. Install in development mode:
+   ```bash
+   pip install -e .[dev]
+   ```
+
+### Project Structure
 
 ```
-swipes → analyzes → messages → collects
-   ↓        ↓          ↓         ↓
- desire   wisdom    poetry   harvest
+eros/
+├── README.md          # This file
+├── pyproject.toml     # Project configuration
+├── eros.jpg          # Project image
+└── src/               # Source code (to be developed)
 ```
 
-**when** *Helios sets* on daily swipes
-**then** *Eros delivers* the chosen ones
+## Philosophy
 
-![divine eros](eros.jpg)
+This project explores the philosophical implications of algorithmic matching in modern digital relationships, combining technical implementation with conceptual exploration.
+
+## Contributing
+
+Contributions are welcome! This project is in early development and there are many opportunities to contribute:
+
+- Core algorithm implementation
+- Documentation improvements
+- Testing infrastructure
+- Examples and tutorials
+
+Please feel free to open issues or submit pull requests.
+
+## License
+
+[License information to be added]
 
 ---
 
-### *...fragment 31...*
-
-***some say*** an army of horsemen
-***some say*** of footsoldiers
-***but I say*** optimal matching algorithms
-***are the most beautiful*** thing on this dark earth
-
----
-
-*χαῖρε* • **farewell** • *may aphrodite smile upon your pulls*
+*"For in the end, the algorithm merely simulates what the heart has always known: that attraction, in all its forms, follows patterns we are only beginning to understand."*
